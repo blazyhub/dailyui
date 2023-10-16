@@ -1,0 +1,12 @@
+body{
+    background-image: url("./i1.jpg");
+    background-size:cover;
+}
+h2{
+    color: antiquewhite;
+}
+img{
+    display: flex;
+    padding: 20px;
+    
+}
